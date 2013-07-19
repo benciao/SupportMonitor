@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="registered">Telefonnummer ist registriert.</string>
+    <string name="notRegistered">Telefonnummer ist nicht registriert.</string>
+    <string name="app_name">Bereitschafts Monitor</string>
+    <string name="checkRegistration">Registrierung wird geprüft &#8230;</string>
+    <string name="buttonRetryRegistration">Erneut versuchen</string>
+    <string name="checkRegistrationFailed">Registrierung fehlgeschlagen.</string>
+    <string name="checkRegistrationFailedR1">Besteht eine Internetverbindung?</string>
+    <string name="checkRegistrationFailedR2">Ist Deine Rufnummer im Server registriert?</string>
+    <string name="checkRegistrationFailedR3">Ist der Telefonkontakt "Meine ECG Bereitschaftsnummer" existent?</string>
+	<string name="exit_app_question">Bereitschafts Monitor wirklich beenden?</string>
+	<string name="yes">Ja</string>
+	<string name="no">Nein</string>
+	<string name="status">Status</string>
+	<string name="statistic">Statistik</string>
+	<string name="calendar">Kalender</string>
+	<string name="settings">Einstellungen</string>
+	<string name="statusChangeHeader">Eigenen Status ändern</string>
+    
+</resources>
